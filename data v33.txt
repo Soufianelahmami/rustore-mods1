@@ -41,13 +41,13 @@
 
 },
   "my_data":[
-  {"desc1":"description1 ser ",
-   "photo1":"https://easy-rental.fr/wp-content/uploads/2020/03/caract%C3%A9ristiques-du-macbook-pro-2019.jpg"},
-  {"desc2":"description2 ser","photo2":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc3":"description3 ser","photo3":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc4":"description4 ser","photo4":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc5":"description5 ser","photo5":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"descd":"description d ser","photod":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"desc1":"In recent years, a fascinating trend has emerged in the world of automotive enthusiasts - the rise of Rustore Mods ",
+   "photo1":"https://iili.io/JH5oydB.webp"},
+  {"desc2":"These unique and innovative projects involve taking classic, often rust-ridden vehicles and transforming them into stunning pieces of automotive art, combining vintage aesthetics with modern performance and technology","photo2":"https://iili.io/JH5oDqx.webp"},
+  {"desc3":"In this article, we'll delve into the world of Rustore Mods, exploring what they are, the challenges they pose, and the incredible results they achieve","photo3":"https://iili.io/JH5ob0Q.webp"},
+  {"desc4":"The concept behind these projects is to bring new life to old vehicles, preserving their historical significance while enhancing their performance, safety, and aesthetics","photo4":"https://iili.io/JH5oQWb.webp"},
+  {"desc5":"Rustore Mods are a fusion of artistry, craftsmanship, and engineering expertise, showcasing the creativity and passion of their creators","photo5":"https://iili.io/JH5omgV.webp"},
+  {"descd":"The journey of a Rustore Mod typically begins with the selection of a classic vehicle","photod":"https://iili.io/JH5x95P.webp"}
    ]
  
 }
